@@ -1,0 +1,26 @@
+{
+  "name": "askos",
+  "version": "0.0.0",
+  "description": "Reserving npm package name for future network requests library",
+  "main": "index.js",
+  "type": "module",
+  "author": {
+    "name": "Dmitriy Mozgovoy",
+    "email": "robotshara@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "network",
+    "request",
+    "fetch",
+    "xhr",
+    "http",
+    "ajax",
+    "promise",
+    "node",
+    "xmlhttprequest"
+  ],
+  "license": "MIT"
+}
